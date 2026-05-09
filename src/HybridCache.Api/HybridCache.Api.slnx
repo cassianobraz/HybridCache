@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="HybridCache.Api/HybridCache.Api.csproj" />
+  </Folder>
+</Solution>
