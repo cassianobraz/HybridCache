@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="../../.gitignore" />
+    <File Path="../../README.md" />
+    <File Path="docker-redis.yaml" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="HybridCache.Api/Hybrid.Api.csproj" />
+  </Folder>
+</Solution>
